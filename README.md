@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Follow me on
+
+- <a rel="me" href="https://universeodon.com/@alphapuggle">Mastodon</a>
+- <a href="https://twitter.com/alphapuggle">Twitter</a>
+- <a href="https://www.instagram.com/linuxfan724/">Instagram</a>
+
+Contact me <a href="mailto://webmaster@alphapuggle.dev">via email</a>
+
 <!--
 **alphapuggle/alphapuggle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
