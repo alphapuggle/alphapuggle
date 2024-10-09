@@ -3,7 +3,6 @@
 Follow me on
 
 - <a rel="me" href="https://universeodon.com/@alphapuggle">Mastodon</a>
-- <a href="https://www.instagram.com/linuxfan724/">Instagram</a>
 - <a href="https://pixelfed.social/Linuxfan724">Pixelfed</a>
 
 Contact me <a href="mailto://webmaster@alphapuggle.dev">via email</a>
